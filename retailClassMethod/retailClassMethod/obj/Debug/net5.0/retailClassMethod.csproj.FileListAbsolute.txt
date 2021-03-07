@@ -1,0 +1,15 @@
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/retailClassMethod.deps.json
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/retailClassMethod.runtimeconfig.json
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/retailClassMethod.runtimeconfig.dev.json
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/retailClassMethod.dll
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/ref/retailClassMethod.dll
+/Users/rob/Projects/retailClassMethod/retailClassMethod/bin/Debug/net5.0/retailClassMethod.pdb
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.csprojAssemblyReference.cache
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.AssemblyInfoInputs.cache
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.AssemblyInfo.cs
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.dll
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/ref/retailClassMethod.dll
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.pdb
+/Users/rob/Projects/retailClassMethod/retailClassMethod/obj/Debug/net5.0/retailClassMethod.genruntimeconfig.cache
